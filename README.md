@@ -1,13 +1,14 @@
-**Flight Booking Automation**
-This project provides automated test coverage for a flight booking web application using **Selenium WebDriver**, **Java**, **TestNG**, and **Maven**.  
+# TestNG Automation Project
 
-Features
-- Automates flight search, booking, and payment flows.
-- Validates booking details with assertions to ensure data accuracy.
-- Designed with Page Object Model (POM) for maintainability.
-- Generates TestNG reports for test results.
+This repository contains an automated testing framework built with **Selenium WebDriver**, **Java**, **TestNG**, and **Maven**.  
 
- Tech Stack
+##  Features
+- Automated functional tests for web applications using Selenium WebDriver.
+- Managed test execution flow and reporting with TestNG.
+- Configured Maven for build automation and dependency management.
+- Uses TestNG annotations and XML configuration for flexible test execution.
+
+##  Tech Stack
 - Java
 - Selenium WebDriver
 - TestNG
