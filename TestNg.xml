@@ -1,0 +1,7 @@
+<suite name="Suite1">
+    <test name="RegressionTest">
+        <classes>
+            <class name="Startup"/>
+        </classes>
+    </test>
+</suite>
